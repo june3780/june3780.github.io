@@ -1,7 +1,8 @@
-title 안선생님의 블로그
-description GFM 마크다운 기반 블로그
-theme minima
+# _config.yml
+title: "안선생님의 블로그"
+description: "GFM 마크다운 블로그"
+theme: minima
 
-markdown kramdown
-kramdown
-  input GFM
+markdown: kramdown
+kramdown:
+  input: GFM
